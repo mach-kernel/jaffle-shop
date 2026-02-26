@@ -13,6 +13,7 @@ renamed as (
         ----------  ids
         id as customer_id,
         'foo', as new_change,
+        'bar', as another_change,
 
         ---------- text
         name as customer_name
