@@ -12,6 +12,7 @@ renamed as (
 
         ----------  ids
         id as location_id,
+        'foo' as location_foo,
 
         ---------- text
         name as location_name,
